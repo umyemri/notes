@@ -16,6 +16,7 @@
 progression assumes no stalling, but that's pretty unreasonable.  
 
 omad if will definitely make me reset a lot.  
+
  | sqauts | deads | ohp | bench | row | 
  | --- | --- | --- | --- | --- | 
  | 135 | 195 | 65 | 95 | 95 | 
