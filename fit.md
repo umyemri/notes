@@ -3,7 +3,8 @@
 ## current program
 * MWF@5:30AM: SL 5x5 - Barbell only motions
 * S-F@7:00PM: OMAD (keto) - fish, nuts, asparagus, burssel sprouts, avocado, cheese, coffee  
-* no beer, wine is fine.
+  * no beer, wine is fine.
+  * cheat when you feel like, but don't make a habit of it.
 
 ## str goals
 * squat: 315lbs 5x5
