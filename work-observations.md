@@ -6,4 +6,4 @@ Large Dataset processing - limitations of each architecture:
 - Python: depends on your library usage and how you are storing data.
 - SQL: huge files are relative.
   - dependent on your server utility and other operations
-- AWK / SED / GREP: extremely agile, but very complicated.
+- [AWK / SED / GREP](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html): extremely agile, but very complicated.
