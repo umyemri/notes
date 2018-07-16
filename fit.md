@@ -2,6 +2,7 @@
 
 ## current program
 * MWF@5:30AM: SL 5x5 - Barbell only motions
+* TT@5:30AM: Cardio - 113 to 132 BPM
 * S-F@7:00PM: OMAD (keto) - fish, nuts, asparagus, burssel sprouts, avocado, cheese, coffee  
   * no beer, wine is fine.
   * cheat when you feel like, but don't make a habit of it.
@@ -12,7 +13,7 @@
 * ohp  : 135lbs 5x5
 * bench: 225lbs 5x5
 * row  : 195lbs 5x5
-* cardi: add after meeting goals with ease of motion. (drop if str suffers).
+* cardi: cycles or ellipticals 
 
 progression assumes no stalling, but that's pretty unreasonable.  
 
