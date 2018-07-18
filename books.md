@@ -6,6 +6,7 @@ The Silmarillion by Tolkien
 
 ## to read
 The Hidden Life of Trees by Peter Wohlleben  
+https://yurichev.com/writings/AL4B-EN.pdf  
 
 ## paused
 Distress by Greg Egan  
