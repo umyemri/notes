@@ -2,6 +2,8 @@
 
 ## now
 
+* [py] https://asciimatics.readthedocs.io/en/stable/io.html
+
 ## later
 
 * [wine] https://www.technologyreview.com/s/611654/fukushimas-nuclear-signature-found-in-california-wine/
