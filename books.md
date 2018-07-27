@@ -1,7 +1,7 @@
 # book list
 
 ## reading
-Gödel, Escher, Bach by Douglas Hofstadter  
+Diamond Age by Stephenson
 The Silmarillion by Tolkien  
 
 ## to read
@@ -9,6 +9,7 @@ The Hidden Life of Trees by Peter Wohlleben
 https://yurichev.com/writings/AL4B-EN.pdf  
 
 ## paused
+Gödel, Escher, Bach by Douglas Hofstadter  
 Distress by Greg Egan  
 [repeat:1] Permutation City by Greg Egan  
 
