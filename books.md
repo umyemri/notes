@@ -1,7 +1,7 @@
 # book list
 
 ## reading
-Diamond Age by Stephenson
+Diamond Age by Stephenson  
 The Silmarillion by Tolkien  
 
 ## to read
