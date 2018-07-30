@@ -6,6 +6,7 @@
 
 ## later
 
+* [bio] https://news.ycombinator.com/item?id=17644204
 * [wine] https://www.technologyreview.com/s/611654/fukushimas-nuclear-signature-found-in-california-wine/
 * [hot-garbage] https://matija.suklje.name/the-tasting-of-surstromming
 * [games] https://store.steampowered.com/app/557600/Gorogoa/
