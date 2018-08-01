@@ -1,6 +1,7 @@
 Large Dataset processing - limitations of each architecture:
 - R: no bigger files than 2 GB.
   - it loads everything into memory.
+    - some solutions for this: https://rstudio-pubs-static.s3.amazonaws.com/72295_692737b667614d369bd87cb0f51c9a4b.html
 - SAS: huge files are relative.
   - dependent on your CPU and Disk Bandwidth
 - Python: depends on your library usage and how you are storing data.
