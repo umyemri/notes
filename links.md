@@ -16,4 +16,5 @@
 
 ### 20180801
 
-* https://hyperallergic.com/453107/archaeologists-may-have-discovered-a-church-built-on-the-site-of-constantine-the-greats-conversion-to-christianity/
+* [constantine] https://hyperallergic.com/453107/archaeologists-may-have-discovered-a-church-built-on-the-site-of-constantine-the-greats-conversion-to-christianity/
+* [aws turks] https://docs.aws.amazon.com/AWSMechTurk/latest/AWSMechanicalTurkGettingStartedGuide/SvcIntro.html
