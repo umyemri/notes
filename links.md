@@ -18,3 +18,5 @@
 
 * [constantine] https://hyperallergic.com/453107/archaeologists-may-have-discovered-a-church-built-on-the-site-of-constantine-the-greats-conversion-to-christianity/
 * [aws turks] https://docs.aws.amazon.com/AWSMechTurk/latest/AWSMechanicalTurkGettingStartedGuide/SvcIntro.html
+* [maths] https://mathmedia.stores.yahoo.net/whatisdifbet.html
+  * only because i'm trying to rebutt a friends declaration that math and arithmetic are different and one they (personally) can never learn... which saddens me.
