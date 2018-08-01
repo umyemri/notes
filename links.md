@@ -16,6 +16,7 @@
   * only because i'm trying to rebutt a friends declaration that math and arithmetic are different and one they (personally) can never learn... which saddens me.
 * [psypop] https://archpaper.com/2018/06/psychedelic-art-temple-entheon/
 * [native-culture] https://www.americanprogress.org/issues/early-childhood/news/2018/07/09/451344/american-indian-alaska-native-maternal-infant-mortality-challenges-opportunities/
+* [awk] https://ferd.ca/awk-in-20-minutes.html
 
 ### before 20180801
 
