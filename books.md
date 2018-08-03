@@ -1,7 +1,7 @@
 # book list
 
 ## reading
-Diamond Age by Stephenson  
+[1] The Windup Girl by Bacigalupi  
 The Silmarillion by Tolkien  
 
 ## to read
@@ -14,6 +14,7 @@ Distress by Greg Egan
 [repeat:1] Permutation City by Greg Egan  
 
 ## read
+Diamond Age by Stephenson  
 [2] Diaspora by Greg Egan  
 [6] Dune by Frank Herbert  
 Hobbit by Tolkien  
