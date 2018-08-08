@@ -9,6 +9,12 @@
 ## radar  
 (aka what caught my eye today)  
 
+### 20180808
+
+* [maths] https://plato.stanford.edu/entries/causal-models/  
+* [py] https://pypi.org/project/CensusData/  
+* [music] https://akirathedon.bandcamp.com/album/dunewave
+
 ### 20180801  
 
 * [constantine] https://hyperallergic.com/453107/archaeologists-may-have-discovered-a-church-built-on-the-site-of-constantine-the-greats-conversion-to-christianity/
