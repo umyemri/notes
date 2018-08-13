@@ -2,7 +2,7 @@
 [x] <- times repeated
 
 ## reading
-The Brothers Karamazov, by Dostoyevsky  
+The Brothers Karamazov by Dostoyevsky  
 The Silmarillion by Tolkien  
 
 ## to read
