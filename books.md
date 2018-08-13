@@ -12,7 +12,7 @@ https://yurichev.com/writings/AL4B-EN.pdf
 ## paused
 Gödel, Escher, Bach by Hofstadter  
 Distress by Egan  
-[repeat:1] Permutation City by Egan  
+[1] Permutation City by Egan  
 
 ## read
 [1] The Windup Girl by Bacigalupi  
