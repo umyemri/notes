@@ -11,4 +11,4 @@ Large Dataset processing - limitations of each architecture:
   - also dependant on your server handlers, and if they have data quota requirements.
 - [AWK / SED / GREP](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html): extremely agile, but very complicated.
 
-Majority of my time: spent waiting for things to compress, decompress or tarnsfer.
+Majority of my time: spent waiting for things to compress, decompress or transfer.
