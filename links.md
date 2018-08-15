@@ -9,6 +9,14 @@
 ## radar  
 (aka what caught my eye today)  
 
+### 20180815
+
+* [latex] https://www.iacr.org/authors/tikz/
+* [e-ink] https://news.ycombinator.com/item?id=16321531
+* [tinywm] http://incise.org/tinywm.html
+* [dwm] https://git.suckless.org/dwm/file/dwm.c.html
+* [lorn] https://lorn.bandcamp.com/album/the-maze-to-nowhere-part-3
+
 ### 20180808
 
 * [maths] https://plato.stanford.edu/entries/causal-models/  
