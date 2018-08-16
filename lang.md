@@ -25,4 +25,5 @@ mostly i don't love the amount of typing to get anything done. they're not known
 * c#
 
 ## mediocre
-* r - if you have a limited dataset, sure: r works great. but i wouldn't dare use r to parse raw census data or cdc mortality files.
+* r <- if you have a limited dataset, sure: r works great. but i wouldn't dare use r to parse raw census data or cdc mortality files.
+* sql <- more of a medium of expression than a language, imo. it's almost like markup in a way (beefy, move whole mountains, markup). 
