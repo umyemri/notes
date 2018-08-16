@@ -9,6 +9,12 @@
 ## radar  
 (aka what caught my eye today)  
 
+### 20180816
+
+* [hunter-seeker] http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
+* [procrast...] https://jamesclear.com/akrasia
+* [hiring] https://hbr.org/2018/01/how-to-hire
+
 ### 20180815
 
 * [latex] https://www.iacr.org/authors/tikz/
