@@ -9,6 +9,11 @@
 ## radar  
 (aka what caught my eye today)  
 
+### 20180817
+
+* [impossible] https://physicsworld.com/a/studying-impossible-systems-with-analogues/
+* [lucid] http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201246
+
 ### 20180816
 
 * [hunter-seeker] http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
