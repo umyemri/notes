@@ -15,6 +15,7 @@
 * [lucid] http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201246
 * [truth] https://whatsthebigdata.com/2016/05/01/data-scientists-spend-most-of-their-time-cleaning-data/
 * [datasets] http://academictorrents.com/browse.php?c6=1&sort_field=seeders&sort_dir=DESC
+* [datasets] https://datahub.io/
 
 ### 20180816
 
