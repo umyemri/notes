@@ -13,6 +13,7 @@
 
 * [impossible] https://physicsworld.com/a/studying-impossible-systems-with-analogues/
 * [lucid] http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201246
+* [truth] https://whatsthebigdata.com/2016/05/01/data-scientists-spend-most-of-their-time-cleaning-data/
 
 ### 20180816
 
