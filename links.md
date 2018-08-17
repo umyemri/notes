@@ -5,6 +5,7 @@
 * [py] https://asciimatics.readthedocs.io/en/stable/io.html  
 * [icd-dx] https://www.health.mil/Military-Health-Topics/Health-Readiness/Armed-Forces-Health-Surveillance-Branch/Epidemiology-and-Analysis/Surveillance-Case-Definitions  
 * [uihi] https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=20069&clientkey=339EC82D1A12328BCCF7ECF991096CD5&jpt=841c618c850c8b0e14998b571a3fd66b  
+* [maths] http://tutorial.math.lamar.edu/
 
 ## radar  
 (aka what caught my eye today)  
