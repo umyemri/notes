@@ -10,6 +10,10 @@
 ## radar  
 (aka what caught my eye today)  
 
+### 20180824
+
+* [first-comment] https://news.ycombinator.com/item?id=17833829
+
 ### 20180817
 
 * [impossible] https://physicsworld.com/a/studying-impossible-systems-with-analogues/
