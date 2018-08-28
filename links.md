@@ -12,7 +12,7 @@
 
 ### 20180828
 
-* [dmesg] http://dmesgd.nycbug.org/index.cgi?do=index
+* [dmesg] http://dmesgd.nycbug.org/index.cgi?do=view&id=3552
 * [py-salmon] https://salmon-mail.readthedocs.io/en/latest/
 
 ### 20180824
