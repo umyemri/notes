@@ -10,6 +10,11 @@
 ## radar  
 (aka what caught my eye today)  
 
+### 20180828
+
+* [dmesg] http://dmesgd.nycbug.org/index.cgi?do=index
+* [py-salmon] https://salmon-mail.readthedocs.io/en/latest/
+
 ### 20180824
 
 * [first-comment] https://news.ycombinator.com/item?id=17833829
