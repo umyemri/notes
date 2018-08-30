@@ -10,6 +10,10 @@
 ## radar  
 (aka what caught my eye today)  
 
+### 20180830
+
+* [flac] https://warmleftovers.com/2012/08/05/no-flac-does-not-sound-better-and-you-are-not-an-audiophile-because-you-use-it-heres-what-it-actually-is-and-why-its-important/
+
 ### 20180828
 
 * [dmesg] http://dmesgd.nycbug.org/index.cgi?do=view&id=3552
