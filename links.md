@@ -14,6 +14,7 @@
 
 * [flac] https://warmleftovers.com/2012/08/05/no-flac-does-not-sound-better-and-you-are-not-an-audiophile-because-you-use-it-heres-what-it-actually-is-and-why-its-important/
 * [emotion-detection] https://www.hindawi.com/journals/aai/2014/282659/
+* [^same] https://www.hindawi.com/journals/aai/2014/932485/
 
 ### 20180828
 
