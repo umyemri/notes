@@ -18,6 +18,7 @@
 * [ai-soft-sensor] https://www.hindawi.com/journals/aai/2012/157642/
 * [big-maths] https://www.hindawi.com/journals/aai/2012/790485/
 * [uuv] https://www.atlantis-press.com/journals/jrnal/13190
+* [py-tts] https://pyttsx3.readthedocs.io/en/latest/engine.html#examples
 
 ### 20180828
 
