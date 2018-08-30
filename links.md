@@ -17,6 +17,7 @@
 * [^same] https://www.hindawi.com/journals/aai/2014/932485/
 * [ai-soft-sensor] https://www.hindawi.com/journals/aai/2012/157642/
 * [big-maths] https://www.hindawi.com/journals/aai/2012/790485/
+* [uuv] https://www.atlantis-press.com/journals/jrnal/13190
 
 ### 20180828
 
