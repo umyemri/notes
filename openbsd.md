@@ -62,7 +62,8 @@ i do not want to see my telecom's domain appending my hostname...
 </pre>
 
 ### rcctl
-i don't need a mail server on my laptop...
+i don't need a mail server on my laptop... but i did my due diligence and sent 
+my dmesg and hw.sensors to dmesg@openbsd.org.
 <pre>
 <b># rcctl disable smtpd
 # rcctl disable ... something else... i forget</b>
