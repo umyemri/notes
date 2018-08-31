@@ -36,14 +36,16 @@ Use (W)hole disk MBR = <b>g</b>
 Which disk contains the install media = <b>sd2</b>
 </pre>
 
-## fstab
+## post install
+
+### fstab
 
 <pre>
 <b># cp /etc/fstab /etc/fstab.bak
 # sed -i 's/rw/rw,softdep,noatime/' /etc/fstab</b>
 </pre>
 
-## apmd
+### apmd
 power management stats
 <pre>
 <b># rcctl enable apmd
@@ -52,20 +54,20 @@ power management stats
 ampd (ok)
 </pre>
 
-## hostname
+### hostname
 i do not want to see my telecom's domain appending my hostname...
 <pre>
 # hostname -s
 </pre>
 
-## rcctl
+### rcctl
 i don't need a mail server on my laptop...
 <pre>
 <b># rcctl disable smtpd
 # rcctl disable ... something else... i forget</b>
 </pre>
 
-## ports
+### ports
 
 <pre>
 <b># pkg_add sudo dwm st vim cmus firefox openvpn pulseaudio mpv feh ranger</b>
@@ -83,10 +85,15 @@ i don't need a mail server on my laptop...
 * __feh:__ simple picture viewer
 * __ranger:__ file manager
 
-## .xinitrc
+### .xinitrc
 
 <pre>
 feh --bg-scale ~/.config/wall.png &
 compton -s &
 exec dwm
 </pre>
+
+## end notes
+still need to tweet dwm an st. fonts are too small, but i'll need to recompile them. also launching a new terminal in dwm gives me a garbage white palette terminal. terrible! but dmenu launching of st fixes that.  
+
+also need to setup vpn and turn off auto-connecting to the internet. i don't always want to be online, god damnit.
