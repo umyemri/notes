@@ -71,10 +71,10 @@ my dmesg and hw.sensors to dmesg@openbsd.org.
 ### ports
 
 <pre>
-<b># pkg_add sudo dwm st vim cmus firefox openvpn pulseaudio mpv feh ranger</b>
+<b># pkg_add sudo dwm st vim cmus firefox openvpn pulseaudio mpv feh ranger compton</b>
 </pre>
 
-* __sudo:__ super user do  
+* __sudo:__ super user do. this is a behavior artifact from linux, i just need to get used to doas  
 * __dwm:__ suckless windows manager  
 * __st:__ suckless simple terminal  
 * __vim:__ more tha vi... bloated vi some might say  
@@ -85,6 +85,7 @@ my dmesg and hw.sensors to dmesg@openbsd.org.
 * __mpv:__ simple movie player
 * __feh:__ simple picture viewer
 * __ranger:__ file manager
+* __compton:__ get rid of that screen tearing
 
 ### .xinitrc
 
