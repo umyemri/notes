@@ -91,7 +91,7 @@ my dmesg and hw.sensors to dmesg@openbsd.org.
 
 <pre>
 feh --bg-scale ~/.config/wall.png &
-compton -s &
+compton -b &
 exec dwm
 </pre>
 
