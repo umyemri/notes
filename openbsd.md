@@ -63,3 +63,11 @@ ampd (ok)
 * __mpv:__ simple movie player
 * __feh:__ simple picture viewer
 * __ranger:__ file manager
+
+## .xinitrc
+
+<pre>
+feh --bg-scale ~/.config/wall.png &
+compton -s &
+exec dwm
+</pre>
