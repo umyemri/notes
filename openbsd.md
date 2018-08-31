@@ -5,7 +5,7 @@ installing from 6.4-snapshot onto a dell xps 13 9360. modified with a intel 8260
 some tips taken form https://www.romanzolotarev.com/openbsd/install.html  
 
 this does an encrypted softraid. my install deviates a little from roman's as
-i had a few different anomlies:
+i had a few different anomalies:
 * having to select sd2 during auto-install
 * disklabel defaulted to 1048 instead of 0
 * some of my prompts were different during install
