@@ -26,7 +26,32 @@ softraid0: CRYPTO volume attached as sd2
 # cd /dev && sh MAKEDEV sd2
 # dd if=/dev/zero of=/dev/rsd2c bs=1m count=1
 # exit
+Do you want the X Window System = yes
+Use (W)hole disk MBR = g
+Location of sets = disk
+Which disk contains the install media = sd1
+Continue without verification = yes
+</pre>
+
+## fstab
+
+<pre>
+# cp /etc/fstab /etc/fstab.bak
+# sed -i 's/rw/rw,softdep,noatime/' /etc/fstab
+</pre>
+
+## apmd
+
+<pre>
+# rcctl enable apmd
+# rcctl set apmd flags -A -z 7
+# rcctl start apmd
+ampd (ok)
+#
 </pre>
 
 ## ports
-dwm st cmus firefox openvpn pulseaudio mpv feh ranger
+
+<pre>
+# pkg_add sudo dwm st vim cmus firefox openvpn pulseaudio mpv feh ranger
+</pre>
