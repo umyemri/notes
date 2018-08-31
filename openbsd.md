@@ -34,7 +34,6 @@ softraid0: CRYPTO volume attached as sd2
 # dd if=/dev/zero of=/dev/rsd2c bs=1m count=1
 # exit</b>
 Use (W)hole disk MBR = <b>g</b>
-Which disk contains the install media = <b>sd2</b>
 </pre>
 
 ## post install
