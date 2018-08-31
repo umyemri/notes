@@ -4,12 +4,10 @@
 https://www.romanzolotarev.com/openbsd/install.html
 
 <pre>
-<b>
-# sysctl hw.disknames
+<b># sysctl hw.disknames
 # dd if=/dev/urandom of=/dev/rsd0c bs=1m
 # fdisk -iy -g -b 960 sd0
-# disklabel -E sd0
-</b>
+# disklabel -E sd0</b>
 Label editor (enter '?' for help at any prompt)
 > a a
 offset: [1048]
@@ -57,3 +55,15 @@ ampd (ok)
 <pre>
 # pkg_add sudo dwm st vim cmus firefox openvpn pulseaudio mpv feh ranger
 </pre>
+
+* __sudo:__ super user do  
+* __dwm:__ suckless windows manager  
+* __st:__ suckless simple terminal  
+* __vim:__ more tha vi... bloated vi some might say  
+* __cmus:__ ncurses music player
+* __firefox:__ big browser
+* __openvpn:__ vpn software
+* __pulseaudio:__ bloated audio driver i'm addicted to...
+* __mpv:__ simple movie player
+* __feh:__ simple picture viewer
+* __ranger:__ file manager
