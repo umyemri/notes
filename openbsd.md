@@ -11,8 +11,9 @@ i had a few different anomalies:
 * some of my prompts were different during install
 
 <pre>
-<b># sysctl hw.disknames
-# dd if=/dev/urandom of=/dev/rsd0c bs=1m
+<b># sysctl hw.disknames</b>
+hw.disknames=sd0:xxxxxxxxxxx,rd0:xxxxxxxxxxx,sd1:xxxxxxxxxxx
+<b># dd if=/dev/urandom of=/dev/rsd0c bs=1m
 # fdisk -iy -g -b 960 sd0
 # disklabel -E sd0</b>
 Label editor (enter '?' for help at any prompt)
