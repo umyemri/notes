@@ -46,6 +46,19 @@ Which disk contains the install media = <b>sd2</b>
 ampd (ok)
 </pre>
 
+## hostname
+
+<pre>
+# hostname -s
+</pre>
+
+## rcctl
+
+<pre>
+<b># rcctl disable smtpd
+# rcctl disable ... something else... i forget</b>
+</pre>
+
 ## ports
 
 <pre>
