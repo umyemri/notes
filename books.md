@@ -15,6 +15,7 @@ Distress by Egan
 [1] Permutation City by Egan  
 
 ## read
+The Conspiracy Against the Human Race by Ligotti  
 [1] The Windup Girl by Bacigalupi  
 Diamond Age by Stephenson  
 [2] Diaspora by Greg Egan  
