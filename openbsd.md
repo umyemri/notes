@@ -4,15 +4,17 @@
 https://www.romanzolotarev.com/openbsd/install.html
 
 <pre>
+<b>
 # sysctl hw.disknames
 # dd if=/dev/urandom of=/dev/rsd0c bs=1m
 # fdisk -iy -g -b 960 sd0
 # disklabel -E sd0
+</b>
 Label editor (enter '?' for help at any prompt)
 > a a
-offset: [0]
+offset: [1048]
 size: [39825135]
-FS type: [4.2BSD] RAID
+FS type: [#.#BSD] RAID
 > w
 > q
 No label changes.
