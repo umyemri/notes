@@ -2,7 +2,13 @@
 installing from 6.4-snapshot onto a dell xps 13 9360. modified with a intel 8260ngw wireless card.
 
 ## install preconfig
-https://www.romanzolotarev.com/openbsd/install.html
+some tips taken form https://www.romanzolotarev.com/openbsd/install.html  
+
+this does an encrypted softraid. my install deviates a little from roman's as
+i had a few different anomlies:
+* having to select sd2 during auto-install
+* disklabel defaulted to 1048 instead of 0
+* some of my prompts were different during install
 
 <pre>
 <b># sysctl hw.disknames
@@ -38,7 +44,7 @@ Which disk contains the install media = <b>sd2</b>
 </pre>
 
 ## apmd
-
+power management stats
 <pre>
 <b># rcctl enable apmd
 # rcctl set apmd flags -A -z 7
@@ -47,13 +53,13 @@ ampd (ok)
 </pre>
 
 ## hostname
-
+i do not want to see my telecom's domain appending my hostname...
 <pre>
 # hostname -s
 </pre>
 
 ## rcctl
-
+i don't need a mail server on my laptop...
 <pre>
 <b># rcctl disable smtpd
 # rcctl disable ... something else... i forget</b>
