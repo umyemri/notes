@@ -95,8 +95,12 @@ exec dwm
 </pre>
 
 ## end notes
-still need to tweak dwm and st. fonts are too small, but i'll need to recompile them. also launching a new terminal in dwm gives me a garbage white palette terminal. terrible! but dmenu launching of st fixes that.  
+still need to tweak dwm and st. fonts are too small, but i'll need to recompile
+them. also launching a new terminal in dwm gives me a garbage white palette 
+terminal. terrible! but dmenu launching of st fixes that.  
 
-also need to setup vpn and turn off auto-connecting to the internet. i don't always want to be online, god damnit.
+also need to setup vpn and turn off auto-connecting to the internet. i don't 
+always want to be online, god damnit.
 
-and i'm pretty much stuck using an external mouse because of this cypress touchpad... :<
+and i'm pretty much stuck using an external mouse because of this cypress 
+touchpad... :<
