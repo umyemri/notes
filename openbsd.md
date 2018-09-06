@@ -57,7 +57,7 @@ ampd (ok)
 ### hostname
 i do not want to see my telecom's domain appending my hostname...
 <pre>
-# hostname -s
+# hostname -s soandso.foo
 </pre>
 
 ### rcctl
