@@ -1,5 +1,5 @@
 # openbsd notes
-installing from 6.4-snapshot onto a dell xps 13 9360. modified with a intel 8260ngw wireless card.
+installing from 6.4-snapshot (don't do this, use stable!) onto a dell xps 13 9360. modified with a intel 8260ngw wireless card.
 
 ## install preconfig
 some tips taken form https://www.romanzolotarev.com/openbsd/install.html  
