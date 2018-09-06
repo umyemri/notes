@@ -8,7 +8,7 @@ this does an encrypted softraid. my install deviates a little from roman's as
 i had a few different anomalies:
 * having to select sd2 during auto-install
 * disklabel defaulted to 1048 instead of 0
-* some of my prompts were different during install
+* some of my prompts were different during install  
 also make sure you switch from raid to ahci in the bios (otherwise you ssd will be
 invisible to the installer)
 
