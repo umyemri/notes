@@ -73,22 +73,24 @@ my dmesg and hw.sensors to dmesg@openbsd.org.
 
 ### ports
 
+clearly a very suckless heavy build.
+
 <pre>
-<b># pkg_add sudo dwm st vim cmus firefox openvpn pulseaudio mpv feh ranger compton</b>
+<b># pkg_add dwm st surf slock vim cmus openvpn mpv feh ranger</b>
 </pre>
 
-* __sudo:__ super user do. this is a behavior artifact from linux, i just need to get used to doas  
 * __dwm:__ suckless windows manager  
 * __st:__ suckless simple terminal  
+* __surf:__ suckless browser
+* __slock:__ suckless simeple x display locker
 * __vim:__ more tha vi... bloated vi some might say  
 * __cmus:__ ncurses music player
-* __firefox:__ big browser
 * __openvpn:__ vpn software
-* __pulseaudio:__ bloated audio driver i'm addicted to...
 * __mpv:__ simple movie player
 * __feh:__ simple picture viewer
 * __ranger:__ file manager
-* __compton:__ get rid of that screen tearing
+
+audio controlled with mixerctl.
 
 ### .xinitrc
 
