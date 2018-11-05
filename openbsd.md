@@ -2,7 +2,8 @@
 installing from 6.4-snapshot (don't do this, use stable!) onto a dell xps 13 9360. modified with a intel 8260ngw wireless card.
 
 ## install preconfig
-some tips taken form https://www.romanzolotarev.com/openbsd/install.html  
+some tips taken from https://www.romanzolotarev.com/openbsd/install.html  
+see also: https://www.c0ffee.net/blog/openbsd-on-a-laptop/
 
 this does an encrypted softraid. my install deviates a little from roman's as
 i had a few different anomalies:
