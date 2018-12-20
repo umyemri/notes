@@ -16,8 +16,8 @@
 * ~~sas <- i didn't expect this, but sas is snappy and can take my sql queries.~~
 
 ## to learn
-* julia
-* go
+* julia (maybe... i need to focus on mastering python nuances)
+* go (maybe... same story as above, just on c)
 
 ## worst
 mostly i don't love the amount of typing to get anything done. they're not known for their brevity...  
