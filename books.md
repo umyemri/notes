@@ -25,6 +25,5 @@ Diamond Age by Stephenson
 [2] Diaspora by Greg Egan  
 [6] Dune by Herbert  
 Hobbit by Tolkien  
-Lord of the Rings Trilogy by Tolkien  
 
 ## garbage
