@@ -18,7 +18,7 @@ The Silmarillion by Tolkien
 
 ## read
 Deep Work by Newport  
-[1] Permutation City by Egan 
+[1] Permutation City by Egan  
 The Conspiracy Against the Human Race by Ligotti  
 [1] The Windup Girl by Bacigalupi  
 Diamond Age by Stephenson  
