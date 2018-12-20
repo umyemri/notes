@@ -12,7 +12,7 @@
 
 ## of the ones learned, my favorites
 * python
-* c
+* c  
 ~~* sas <- i didn't expect this, but sas is snappy and can take my sql queries.~~
 
 ## to learn
