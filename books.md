@@ -9,8 +9,8 @@ The Hidden Life of Trees by Peter Wohlleben
 https://yurichev.com/writings/AL4B-EN.pdf  
 [2] The Two Towers by Tolkien  
 [2] The Return of the King by Tolkien  
-Atoms of Language by Baker
-The Count of Monte Cristo by Dumas
+Atoms of Language by Baker  
+The Count of Monte Cristo by Dumas  
 
 ## paused
 Gödel, Escher, Bach by Hofstadter  
